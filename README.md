@@ -24,8 +24,8 @@ This project applies deep learning to classify chest X-rays into multiple diseas
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/f-petrozzi/image-classification-DL.git
-   cd chest-xray-classification
+   git clone https://github.com/f-petrozzi/image_classification_DL.git
+   cd image_classification_dl
    ```
 2. Install required dependencies:
    ```bash
